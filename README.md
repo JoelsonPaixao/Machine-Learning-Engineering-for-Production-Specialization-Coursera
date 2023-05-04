@@ -1,2 +1,2 @@
-# Machine-Learning-Engineering-for-Production-Specialization-Coursera
+# Mlops
 Notebooks and quizzes
